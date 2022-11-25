@@ -16,4 +16,4 @@ Nesse exercicío introdutório aprendemos os fundamentos básicos de HTML e CSS.
 
 ## O projeto em funcionamento
 
-**https://therealmarrk.github.io/desafioAvancado-recriandoLayout/**
+**https://therealmarrk.github.io/Rocket.sect/**
