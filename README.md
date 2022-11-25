@@ -1,5 +1,5 @@
 
-# Recriação de Layout
+# ![App Logo](https://github.com/TheRealMarrk/Rocket.sect/blob/main/images/logo.svg)
 
 Esse foi um desafio da Rocketseat com o objetivo de aprimorar os conhecimentos em HTML e CSS.
 
